@@ -43,9 +43,9 @@ group2 = df.groupby(['turnover_rate','days_listed'])['price'].mean().reset_index
 df_turnover = df.groupby('turnover_rate')['price']
 
 
-st.checkbox = "Color by Turnover Rate'
+checked  = st.checkbox("Color by Turnover Rate")
 
-if st.checkbox:
+if checked:
     
     fig4 = px.scatter(group2, x='days_listed', y='price', color='turnover_rate')
     
