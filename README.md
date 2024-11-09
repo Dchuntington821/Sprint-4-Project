@@ -16,8 +16,9 @@ In-order to set up your environment and run the code:
 
   python -m venv env
   
-  on macOS/Linux run - source env/bin/activate 
-  on Windows run - env\Scripts\activate
+on macOS/Linux run - source env/bin/activate 
+  
+on Windows run - env\Scripts\activate
 
 
 3. Install the dependencies:
