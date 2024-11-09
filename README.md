@@ -10,7 +10,7 @@ In-order to set up your environment and run the code:
 
   git clone <https://github.com/Dchuntington821/Sprint-4-Project>
   
-  cd <Sprint-4-Project>
+  cd Sprint-4-Project
 
 2. Set up your virtual environment:
 
