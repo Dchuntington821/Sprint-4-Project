@@ -4,6 +4,8 @@ This project seeks to determine some of the factors that effect how long a vehic
 I took into account the price, the condition, number of cylinders and if the vehicle has 4wd. 
 The data used can be found in the vehicles_us.csv file. I've also included the full jupyter notebook. 
 
+Here's the link to the applicated: https://sprint-4-project-1gz6.onrender.com
+
 In-order to set up your environment and run the code: 
 
 1. Clone the repo:
